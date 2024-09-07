@@ -1,2 +1,2 @@
-query_id=
-query_id=
+query_id=kontol1
+query_id=kontol2
